@@ -1,0 +1,10 @@
+
+('El ganador de la competicion con id ', '4', ' es ', '44444444C')
+('El ganador de la competicion con id ', '1', ' es ', '49453355C')
+('El ganador de la competicion con id ', '1', ' es ', '49453355c')
+('El ganador de la competicion con id ', 'Athletic', ' es ', '49453355c')
+('El ganador de la competicion con id ', '1', ' es ', '49453355c')
+('El ganador de la competicion con id ', 'pero', ' es ', '49069357f')
+('El ganador de la competicion con id ', 'eee', ' es ', '49069357f')
+('El ganador de la competicion con id ', '2', ' es ', '26954656j')
+('El ganador de la competicion con id ', '3', ' es ', '26954656j')
